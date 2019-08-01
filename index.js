@@ -1,3 +1,4 @@
+//http://thbastos.com/blog/tutorial-aprendendo-nodejs-6-socketio-desenvolvendo-uma-aplicacao-de-bate-papo
 // Iniciamos uma nova instância do socket.io passando o objeto http(o servidor http)
 var app = require('express')();
 var http = require('http').Server(app);
